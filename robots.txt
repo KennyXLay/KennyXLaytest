@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://KennyXLay.github.io/al-folio/sitemap.xml
+Sitemap: https://KennyXLay.github.io/sitemap.xml
